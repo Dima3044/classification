@@ -1,0 +1,5 @@
+/.mypy_cache
+/dataset
+/data_test.ipynb
+/tested_models
+/venv
