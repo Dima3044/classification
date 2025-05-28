@@ -2,4 +2,4 @@
 Сервис будет на сайте. На данный момент сайт в разработке. 
 Используем три обученные модели: Efficient Net B4, ResNet50, ConvNeXt small
 Ссылка на текущий датасет:
-https://mega.nz/file/SR1wlZBI#IcR8hwOUhIAMpxO3r9lfg9neTKYW98voMH0mNv0uNGM
+https://mega.nz/file/mdsiiZyC#O0jEqKCibSdpeRK8rz9eaVogokfodlS2hNjp0s2Hsfk
